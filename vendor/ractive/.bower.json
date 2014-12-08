@@ -1,7 +1,7 @@
 {
   "name": "ractive",
   "description": "Next-generation DOM manipulation",
-  "version": "0.5.5",
+  "version": "0.6.1",
   "keywords": [
     "reactive",
     "templates",
@@ -22,13 +22,13 @@
     "type": "git",
     "url": "https://github.com/ractivejs/ractive.git"
   },
-  "_release": "0.5.5",
+  "_release": "0.6.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.5.5",
-    "commit": "7f5648f7d13579b0c7e648ef43191f8791191acd"
+    "tag": "v0.6.1",
+    "commit": "7d4a2306e3e02c0a7dc6818294fc83b17ed61e88"
   },
   "_source": "git://github.com/ractivejs/ractive.git",
-  "_target": "^0.5.4",
+  "_target": "^0.6.1",
   "_originalSource": "ractive"
 }

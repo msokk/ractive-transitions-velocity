@@ -1,13 +1,13 @@
 {
 	"name": "ractive-transitions-velocity",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": {
 		"name": "Jens Anders Bakke"
 	},
 	"main": "ractive-transitions-velocity.js",
 	"description": "ractive-transitions-velocity plugin for Ractive.js",
 	"dependencies": {
-		"ractive": "^0.5.4"
+		"ractive": "^0.6.1"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.5",

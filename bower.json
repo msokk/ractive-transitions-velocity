@@ -1,12 +1,11 @@
 {
 	"name": "ractive-transitions-velocity",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": "Jens Anders Bakke",
 	"main": "ractive-transitions-velocity.js",
 	"dependencies": {
-		"ractive": "^0.5.4",
-		"velocity": "^0.10.1",
-		"jquery": "1.x"
+		"ractive": "^0.6.1",
+		"velocity": "^1.1.0"
 	},
 	"ignore": [
 		".*",
